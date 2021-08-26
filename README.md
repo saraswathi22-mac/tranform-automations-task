@@ -2,4 +2,8 @@
 
 To run the application, run the below command:
 
-npm start
+1. Install the node modules by using:
+   npm install
+   
+2. Start the application by using:
+   npm start
