@@ -1,0 +1,14 @@
+a, a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.div_main {
+    display:inline-block;
+    padding: 6%;
+    margin: 50px;
+}
+
+h4 {
+    padding-bottom: 55px;
+}
